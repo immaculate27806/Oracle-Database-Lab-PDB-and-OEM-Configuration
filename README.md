@@ -77,7 +77,7 @@ Type: Single Instance (CDB with 1 PDB)
 
 Metrics: CPU usage, memory allocation, and data storage
 
-Schema visible: AMOS_PLSQ...
+Schema visible: IMMACULAT...
 
 This confirms a successful configuration of OEM and database monitoring setup.
 
